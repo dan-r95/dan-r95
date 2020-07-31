@@ -1,16 +1,17 @@
-### Hi there 👋
+## Well hello there! :bowtie:
+I'm Daniel, 25 from Germany.
+Check out the blog! 🔥
+[dan-r95.github.io](https://dan-r95.github.io)
 
-<!--
-**dan-r95/dan-r95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>NOTE: Top Languages doesn't indicate my proficieny, rather, it's a GitHub metric of my most-used languages.</i>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-r95&hide=Dockerfile,Ruby&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-r95&show_icons=true"/>
+</a>
+<a href="https://github.com/dan-r95/java-tac-toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dan-r95&repo=angularProj" />
+</a>
