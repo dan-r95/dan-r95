@@ -1,5 +1,6 @@
 ## Well hello there! :bowtie:
 I'm Daniel, 25 from Germany.
+[Here are my gists.](https://gist.github.com/dan-r95)
 Check out the blog! 🔥
 [dan-r95.github.io](https://dan-r95.github.io)
 
