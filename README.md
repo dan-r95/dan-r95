@@ -16,5 +16,5 @@ Check out the blog! 🔥
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-r95&show_icons=true"/>
 </a>
 <a href="https://github.com/dan-r95/java-tac-toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dan-r95&repo=angularProj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dan-r95&repo=flutter-watchlist" />
 </a>
